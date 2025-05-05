@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando: HTML, CSS, React e Python
 - 📫 Como me encontrar:
-- - - Instagram - - - > @isa.ac_g0
+  - Instagram: @isa.ac_g0
 
 
 <div style="display: inline_block"><br>
