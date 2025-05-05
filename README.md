@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou estudando: HTML, CSS, React e Python
 - 📫 Como me encontrar:
   - Instagram: @isa.ac_g0
-
+  - Linkedin: Isaac Maia Albarello
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
